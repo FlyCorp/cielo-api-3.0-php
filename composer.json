@@ -5,7 +5,7 @@
     }
   },
   "name": "flycorp/cielo-api-3.0-php",
-  "description": "Integração com a API 3.0 da Cielo",
+  "description": "Cópia da integração original com a API 3.0 da Cielo",
   "license": "MIT",
   "version": "0.0.1",
   "type": "library",
